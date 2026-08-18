@@ -1,5 +1,5 @@
 print("Hello Git")
 Hello Git
-I am learning Git step by step.
+I am learning Git from DEV branch.
 This change is from Dev branch.
 Branch message: DEV
